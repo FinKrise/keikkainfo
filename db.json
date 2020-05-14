@@ -1,0 +1,52 @@
+{
+  "gigs": [
+    {
+      "id": 1,
+      "artisti": "DJKeks",
+      "tapahtuma": "TopKek",
+      "mkuva": "https://i.redd.it/mkn8yrvj7fl31.jpg",
+      "kuvaus": "Eeppistä",
+      "pvm": "2020-02-01",
+      "klo": "20:20",
+      "osoite": "Meemikatu 21",
+      "lipunmyynti": "https://otredu.github.io/react/",
+      "genre": "Paras",
+      "linkki": "https://otredu.github.io/react/"
+    },
+    {
+      "id": 2,
+      "artisti": "Mem",
+      "tapahtuma": "Yes",
+      "mkuva": "https://i.redd.it/mkn8yrvj7fl31.jpg",
+      "kuvaus": "Yesn't",
+      "pvm": "2019-10-20",
+      "klo": "11:11",
+      "osoite": "Katu 1",
+      "lipunmyynti": "https://otredu.github.io/react/",
+      "genre": "Ei ole",
+      "linkki": "https://otredu.github.io/react/"
+    },
+    {
+      "id": 3,
+      "artisti": "Toniplays",
+      "tapahtuma": "Tubecon",
+      "mkuva": "https://i.redd.it/mkn8yrvj7fl31.jpg",
+      "kuvaus": "Mis mun mainostulot on?",
+      "pvm": "2020-01-30",
+      "klo": "12:34",
+      "osoite": "Tubecon",
+      "lipunmyynti": "https://otredu.github.io/react/",
+      "genre": "Mopovideot",
+      "linkki": "https://otredu.github.io/react/"
+    },
+    {
+      "artisti": "memi",
+      "tapahtuma": "kekfest",
+      "kuvaus": "on hyvä",
+      "pvm": "2020-05-02",
+      "klo": "23:59",
+      "osoite": "topkekkatu",
+      "id": 4
+    }
+  ]
+}
